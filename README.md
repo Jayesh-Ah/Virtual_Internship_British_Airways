@@ -15,7 +15,7 @@ This project focuses on scraping airline reviews and performing sentiment analys
 - Utilized BeautifulSoup to scrape and collect over 1,000 airline reviews.
 - Processed and cleaned the data for sentiment analysis.
 #### Sentiment Analysis
-Applied Naive Bayes classifier to analyze review sentiments, achieving an accuracy of 85%.
+- Applied Naive Bayes classifier to analyze review sentiments, achieving an accuracy of 85%.
 #### Prediction Model
 - Engineered advanced algorithms like Random Forest and XGBoost for bike rental forecasting.
 - Developed a robust LightGBM model to predict customer bookings with 90% accuracy.
