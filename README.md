@@ -23,25 +23,6 @@ Applied Naive Bayes classifier to analyze review sentiments, achieving an accura
 #### Insights and Presentation
 Compiled findings, visualizations, and performance metrics in comprehensive PDF reports.
 Presented insights to inform strategic business decisions and future planning.
-### How to Use
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/airline-review-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd airline-review-analysis
-Install the required packages:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebooks:
-bash
-Copy code
-jupyter notebook
-Open and run web_scraping.ipynb to perform web scraping and data preprocessing.
-Open and run prediction_model.ipynb to develop and evaluate the prediction model.
 #### Requirements
 - Python 3.7+
 - Jupyter Notebook
