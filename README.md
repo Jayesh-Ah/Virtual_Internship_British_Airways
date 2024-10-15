@@ -5,12 +5,12 @@ Airline Review Analysis and Customer Booking Prediction
 This project involves analyzing airline reviews and predicting customer booking behaviors through a full data science pipeline. It includes web scraping, data cleaning, sentiment analysis, and predictive modeling to derive actionable insights for business decision-making. The aim is to understand how customer sentiment influences booking patterns, helping British Airways optimize their customer service and marketing strategies.
 
 ## 📂 Repository Contents
-prediction_model.ipynb: Jupyter Notebook containing code for developing and evaluating the customer booking prediction model.
-web_scraping.ipynb: Jupyter Notebook for scraping and preprocessing airline review data using BeautifulSoup.
-Customer_Bookings.pdf: Detailed report on the development, evaluation, and performance of the booking prediction model.
-Data_Scraping.pdf: Comprehensive documentation on data scraping and preprocessing methodologies.
-data/: Folder containing raw and cleaned datasets used for model training and evaluation.
-[customer_bookings.csv](./customer_bookings.csv): Cleaned dataset used for training and testing the model.
+- **`prediction_model.ipynb`**: Jupyter Notebook containing code for developing and evaluating the customer booking prediction model.  
+- **`web_scraping.ipynb`**: Jupyter Notebook for scraping and preprocessing airline review data using BeautifulSoup.  
+- **`Customer_Bookings.pdf`**: Detailed report on the development, evaluation, and performance of the booking prediction model.  
+- **`Data_Scraping.pdf`**: Comprehensive documentation on data scraping and preprocessing methodologies.  
+- **`data/`**: Folder containing raw and cleaned datasets used for model training and evaluation.  
+- **`customer_bookings.csv`**: Cleaned dataset used for training and testing the model. 
 ## 🔑 Key Components
 1. Web Scraping
 Employed BeautifulSoup to scrape over 1,000 airline reviews from a major review platform.
