@@ -10,7 +10,7 @@ web_scraping.ipynb: Jupyter Notebook for scraping and preprocessing airline revi
 Customer_Bookings.pdf: Detailed report on the development, evaluation, and performance of the booking prediction model.
 Data_Scraping.pdf: Comprehensive documentation on data scraping and preprocessing methodologies.
 data/: Folder containing raw and cleaned datasets used for model training and evaluation.
-customer_bookings.csv: Cleaned dataset used for training and testing the model.
+[customer_bookings.csv](./customer_bookings.csv): Cleaned dataset used for training and testing the model.
 ## 🔑 Key Components
 1. Web Scraping
 Employed BeautifulSoup to scrape over 1,000 airline reviews from a major review platform.
@@ -31,5 +31,5 @@ BeautifulSoup4
 scikit-learn
 LightGBM
 SHAP
-📈 Conclusion
+## 📈 Conclusion
 This project demonstrates a comprehensive workflow, from data collection to predictive modeling and business insights. Users can replicate or extend the analysis by following the provided Notebooks and reports. The tools and methodologies applied here are applicable to a wide range of industries facing similar challenges in customer behavior prediction.
