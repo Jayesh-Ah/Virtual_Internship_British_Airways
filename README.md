@@ -25,11 +25,11 @@ Utilized SHAP (SHapley Additive exPlanations) to interpret model outputs, identi
 Generated insightful visualizations and compiled performance metrics in PDF reports.
 Presented strategic insights to inform future business decisions regarding customer retention, service improvement, and marketing strategies.
 ## 📦 Requirements
-Python 3.7+
-Jupyter Notebook
-BeautifulSoup4
-scikit-learn
-LightGBM
-SHAP
+- Python 3.7+
+- Jupyter Notebook
+- BeautifulSoup4
+- scikit-learn
+- LightGBM
+- SHAP
 ## 📈 Conclusion
 This project demonstrates a comprehensive workflow, from data collection to predictive modeling and business insights. Users can replicate or extend the analysis by following the provided Notebooks and reports. The tools and methodologies applied here are applicable to a wide range of industries facing similar challenges in customer behavior prediction.
